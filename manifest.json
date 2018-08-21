@@ -1,9 +1,9 @@
 {
-    "name": "Potatoes Emojis",
+    "name": "Blob Emojis",
 
     "version": "1.2",
 
-    "description": "Replace latest noto-emoji from Google with old \"potatoes\"(or \"worms\" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web (or by a newer version if not available in 6.0.1)",
+    "description": "Replace latest noto-emoji from Google with old \"blobs\"(or \"potatoes\" or \"worms\" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web (or by a newer version if not available in 6.0.1)",
 
     "permissions": [
         "webRequest",
@@ -17,9 +17,9 @@
     },
 
     "icons": {
-        "48": "icons/sleuth-or-spy_1f575_48.png",
-        "96": "icons/sleuth-or-spy_1f575_96.png",
-        "128": "icons/sleuth-or-spy_1f575_128.png"
+        "48": "resources/icons/sleuth-or-spy_1f575_48.png",
+        "96": "resources/icons/sleuth-or-spy_1f575_96.png",
+        "128": "resources/icons/sleuth-or-spy_1f575_128.png"
     },
 
     "developer": {
