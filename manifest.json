@@ -1,7 +1,7 @@
 {
     "name": "Potatoes Emojis",
 
-    "version": "1.1",
+    "version": "1.2",
 
     "description": "Replace latest noto-emoji from Google with old \"potatoes\"(or \"worms\" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web (or by a newer version if not available in 6.0.1)",
 
