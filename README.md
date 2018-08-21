@@ -4,7 +4,9 @@
 
 ## Why this extension
 
-To say no to conformism ! Who wants to have the same boring round-shaped emojis as every other platforms, when you can have those glorious blob emojis ? This extension features the best version of the blobs introduced in Android 4.4 and improved in Android 5.0 and Android 6.0.1. Blobs in Android 7.0 have already lost their custom shapes and their originality.
+To say no to conformism ! Who wants to have the same boring round-shaped emojis as every other platforms, when you can have those glorious blob emojis ? This extension features the best version of the blobs introduced in Android 4.4 and improved in Android 5.0 and Android 6.0.1 (blobs in Android 7.0 have already lost their custom shapes and their originality).
+
+![Switch back to good ol' blobs !](resources/images/blob-no-blob.png "Switch back to good ol' blobs !")
 
 ## What it does
 
