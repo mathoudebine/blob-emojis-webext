@@ -1,15 +1,15 @@
 {
     "name": "Blob Emojis",
 
-    "version": "1.3",
+    "version": "1.4",
 
     "description": "Replace latest noto-emoji from Google with old \"blobs\"(or \"potatoes\" or \"worms\" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web (or by a newer version if not available in 6.0.1)",
 
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "*://messages.android.com/*",
-        "*://ssl.gstatic.com/*"
+        "https://messages.android.com/*",
+        "https://ssl.gstatic.com/dynamite/emoji/*"
     ],
 
     "background": {

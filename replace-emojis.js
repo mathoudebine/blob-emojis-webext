@@ -1,5 +1,5 @@
 // Pattern of emojis loaded from the Google CDN
-var pattern = "*://ssl.gstatic.com/dynamite/emoji/*";
+var pattern = "https://ssl.gstatic.com/dynamite/emoji/*";
 
 // Callback to replace origin URL with archived Google Emoji equivalent from noto-emoji repository
 function redirect(requestDetails) {
@@ -14,9 +14,9 @@ function redirect(requestDetails) {
     };
 }
 
-// Intercept all requests to Google CDN of type 'image' before they are made
+// Intercept all requests to Google CDN that have an "emoji" URL pattern before they are made
 browser.webRequest.onBeforeRequest.addListener(
     redirect,
-    {urls: [pattern], types:["image"]},
+    {urls: [pattern]},
     ["blocking"]
 );
