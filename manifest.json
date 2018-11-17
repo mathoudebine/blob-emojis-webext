@@ -3,7 +3,7 @@
 
     "version": "1.4",
 
-    "description": "Replace latest noto-emoji from Google with old \"blobs\"(or \"potatoes\" or \"worms\" or whatever you call it...) emojis from Android 6.0.1 on the Google website Messages for web (or by a newer version if not available in 6.0.1)",
+    "description": "Replace latest noto-emoji from Google with old \"blobs\"(or \"potatoes\" or \"worms\" or whatever you call it...) emojis from Android 6.0.1 (or by a newer version if not available in 6.0.1) on the Google website \"Messages for web\"",
 
     "permissions": [
         "webRequest",
@@ -24,7 +24,7 @@
 
     "developer": {
         "name": "Matthieu Houdebine",
-        "url": "https://github.com/mathoudebine/potatoes-emoji-webext"
+        "url": "https://github.com/mathoudebine/blob-emojis-webext"
     },
     
     "manifest_version": 2
